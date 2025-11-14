@@ -14,12 +14,6 @@ The system then extracts the voice **only of the target speaker** and generates:
 
 ---
 
-## 🚀 Demo Screenshot
-
-> *(Add a screenshot here if needed.)*
-
----
-
 ## 🛠 Features
 
 - 🎙 Upload two audio files (target + mixture)
