@@ -1,0 +1,554 @@
+[
+    {
+        "speaker": "Target",
+        "start": 0.0,
+        "end": 1.0,
+        "similarity": 0.653
+    },
+    {
+        "speaker": "Target",
+        "start": 1.0,
+        "end": 2.0,
+        "similarity": 0.663
+    },
+    {
+        "speaker": "Target",
+        "start": 2.0,
+        "end": 3.0,
+        "similarity": 0.615
+    },
+    {
+        "speaker": "Other",
+        "start": 3.0,
+        "end": 4.0,
+        "similarity": 0.099
+    },
+    {
+        "speaker": "Other",
+        "start": 4.0,
+        "end": 5.0,
+        "similarity": 0.004
+    },
+    {
+        "speaker": "Other",
+        "start": 5.0,
+        "end": 6.0,
+        "similarity": 0.066
+    },
+    {
+        "speaker": "Other",
+        "start": 6.0,
+        "end": 7.0,
+        "similarity": 0.091
+    },
+    {
+        "speaker": "Other",
+        "start": 7.0,
+        "end": 8.0,
+        "similarity": -0.0
+    },
+    {
+        "speaker": "Other",
+        "start": 8.0,
+        "end": 9.0,
+        "similarity": 0.006
+    },
+    {
+        "speaker": "Other",
+        "start": 9.0,
+        "end": 10.0,
+        "similarity": -0.004
+    },
+    {
+        "speaker": "Other",
+        "start": 10.0,
+        "end": 11.0,
+        "similarity": -0.036
+    },
+    {
+        "speaker": "Other",
+        "start": 11.0,
+        "end": 12.0,
+        "similarity": 0.067
+    },
+    {
+        "speaker": "Other",
+        "start": 12.0,
+        "end": 13.0,
+        "similarity": 0.11
+    },
+    {
+        "speaker": "Other",
+        "start": 13.0,
+        "end": 14.0,
+        "similarity": 0.237
+    },
+    {
+        "speaker": "Other",
+        "start": 14.0,
+        "end": 15.0,
+        "similarity": 0.093
+    },
+    {
+        "speaker": "Other",
+        "start": 15.0,
+        "end": 16.0,
+        "similarity": 0.053
+    },
+    {
+        "speaker": "Other",
+        "start": 16.0,
+        "end": 17.0,
+        "similarity": 0.116
+    },
+    {
+        "speaker": "Other",
+        "start": 17.0,
+        "end": 18.0,
+        "similarity": 0.068
+    },
+    {
+        "speaker": "Other",
+        "start": 18.0,
+        "end": 19.0,
+        "similarity": 0.337
+    },
+    {
+        "speaker": "Other",
+        "start": 19.0,
+        "end": 20.0,
+        "similarity": 0.401
+    },
+    {
+        "speaker": "Other",
+        "start": 20.0,
+        "end": 21.0,
+        "similarity": -0.089
+    },
+    {
+        "speaker": "Other",
+        "start": 21.0,
+        "end": 22.0,
+        "similarity": 0.124
+    },
+    {
+        "speaker": "Other",
+        "start": 22.0,
+        "end": 23.0,
+        "similarity": 0.076
+    },
+    {
+        "speaker": "Other",
+        "start": 23.0,
+        "end": 24.0,
+        "similarity": 0.077
+    },
+    {
+        "speaker": "Other",
+        "start": 24.0,
+        "end": 25.0,
+        "similarity": 0.068
+    },
+    {
+        "speaker": "Other",
+        "start": 25.0,
+        "end": 26.0,
+        "similarity": -0.039
+    },
+    {
+        "speaker": "Other",
+        "start": 26.0,
+        "end": 27.0,
+        "similarity": 0.038
+    },
+    {
+        "speaker": "Other",
+        "start": 27.0,
+        "end": 28.0,
+        "similarity": 0.066
+    },
+    {
+        "speaker": "Other",
+        "start": 28.0,
+        "end": 29.0,
+        "similarity": -0.103
+    },
+    {
+        "speaker": "Other",
+        "start": 29.0,
+        "end": 30.0,
+        "similarity": 0.102
+    },
+    {
+        "speaker": "Other",
+        "start": 30.0,
+        "end": 31.0,
+        "similarity": -0.008
+    },
+    {
+        "speaker": "Other",
+        "start": 31.0,
+        "end": 32.0,
+        "similarity": -0.014
+    },
+    {
+        "speaker": "Other",
+        "start": 32.0,
+        "end": 33.0,
+        "similarity": 0.394
+    },
+    {
+        "speaker": "Other",
+        "start": 33.0,
+        "end": 34.0,
+        "similarity": 0.483
+    },
+    {
+        "speaker": "Other",
+        "start": 34.0,
+        "end": 35.0,
+        "similarity": 0.507
+    },
+    {
+        "speaker": "Other",
+        "start": 35.0,
+        "end": 36.0,
+        "similarity": 0.429
+    },
+    {
+        "speaker": "Other",
+        "start": 36.0,
+        "end": 37.0,
+        "similarity": 0.378
+    },
+    {
+        "speaker": "Other",
+        "start": 37.0,
+        "end": 38.0,
+        "similarity": 0.038
+    },
+    {
+        "speaker": "Other",
+        "start": 38.0,
+        "end": 39.0,
+        "similarity": 0.025
+    },
+    {
+        "speaker": "Other",
+        "start": 39.0,
+        "end": 40.0,
+        "similarity": 0.032
+    },
+    {
+        "speaker": "Other",
+        "start": 40.0,
+        "end": 41.0,
+        "similarity": -0.075
+    },
+    {
+        "speaker": "Other",
+        "start": 41.0,
+        "end": 42.0,
+        "similarity": 0.078
+    },
+    {
+        "speaker": "Other",
+        "start": 42.0,
+        "end": 43.0,
+        "similarity": 0.089
+    },
+    {
+        "speaker": "Other",
+        "start": 43.0,
+        "end": 44.0,
+        "similarity": -0.001
+    },
+    {
+        "speaker": "Other",
+        "start": 44.0,
+        "end": 45.0,
+        "similarity": 0.064
+    },
+    {
+        "speaker": "Other",
+        "start": 45.0,
+        "end": 46.0,
+        "similarity": 0.078
+    },
+    {
+        "speaker": "Other",
+        "start": 46.0,
+        "end": 47.0,
+        "similarity": 0.109
+    },
+    {
+        "speaker": "Other",
+        "start": 47.0,
+        "end": 48.0,
+        "similarity": 0.062
+    },
+    {
+        "speaker": "Other",
+        "start": 48.0,
+        "end": 49.0,
+        "similarity": -0.122
+    },
+    {
+        "speaker": "Other",
+        "start": 49.0,
+        "end": 50.0,
+        "similarity": 0.025
+    },
+    {
+        "speaker": "Other",
+        "start": 50.0,
+        "end": 51.0,
+        "similarity": 0.085
+    },
+    {
+        "speaker": "Other",
+        "start": 51.0,
+        "end": 52.0,
+        "similarity": 0.035
+    },
+    {
+        "speaker": "Other",
+        "start": 52.0,
+        "end": 53.0,
+        "similarity": 0.212
+    },
+    {
+        "speaker": "Other",
+        "start": 53.0,
+        "end": 54.0,
+        "similarity": 0.475
+    },
+    {
+        "speaker": "Other",
+        "start": 54.0,
+        "end": 55.0,
+        "similarity": 0.397
+    },
+    {
+        "speaker": "Other",
+        "start": 55.0,
+        "end": 56.0,
+        "similarity": 0.191
+    },
+    {
+        "speaker": "Other",
+        "start": 56.0,
+        "end": 57.0,
+        "similarity": 0.463
+    },
+    {
+        "speaker": "Other",
+        "start": 57.0,
+        "end": 58.0,
+        "similarity": 0.041
+    },
+    {
+        "speaker": "Other",
+        "start": 58.0,
+        "end": 59.0,
+        "similarity": 0.079
+    },
+    {
+        "speaker": "Other",
+        "start": 59.0,
+        "end": 60.0,
+        "similarity": 0.015
+    },
+    {
+        "speaker": "Other",
+        "start": 60.0,
+        "end": 61.0,
+        "similarity": 0.008
+    },
+    {
+        "speaker": "Other",
+        "start": 61.0,
+        "end": 62.0,
+        "similarity": 0.365
+    },
+    {
+        "speaker": "Other",
+        "start": 62.0,
+        "end": 63.0,
+        "similarity": 0.503
+    },
+    {
+        "speaker": "Other",
+        "start": 63.0,
+        "end": 64.0,
+        "similarity": 0.432
+    },
+    {
+        "speaker": "Other",
+        "start": 64.0,
+        "end": 65.0,
+        "similarity": 0.38
+    },
+    {
+        "speaker": "Other",
+        "start": 65.0,
+        "end": 66.0,
+        "similarity": 0.348
+    },
+    {
+        "speaker": "Other",
+        "start": 66.0,
+        "end": 67.0,
+        "similarity": 0.104
+    },
+    {
+        "speaker": "Other",
+        "start": 67.0,
+        "end": 68.0,
+        "similarity": 0.038
+    },
+    {
+        "speaker": "Other",
+        "start": 68.0,
+        "end": 69.0,
+        "similarity": 0.026
+    },
+    {
+        "speaker": "Other",
+        "start": 69.0,
+        "end": 70.0,
+        "similarity": 0.05
+    },
+    {
+        "speaker": "Other",
+        "start": 70.0,
+        "end": 71.0,
+        "similarity": 0.067
+    },
+    {
+        "speaker": "Other",
+        "start": 71.0,
+        "end": 72.0,
+        "similarity": 0.009
+    },
+    {
+        "speaker": "Other",
+        "start": 72.0,
+        "end": 73.0,
+        "similarity": 0.059
+    },
+    {
+        "speaker": "Other",
+        "start": 73.0,
+        "end": 74.0,
+        "similarity": 0.043
+    },
+    {
+        "speaker": "Other",
+        "start": 74.0,
+        "end": 75.0,
+        "similarity": 0.054
+    },
+    {
+        "speaker": "Other",
+        "start": 75.0,
+        "end": 76.0,
+        "similarity": 0.473
+    },
+    {
+        "speaker": "Other",
+        "start": 76.0,
+        "end": 77.0,
+        "similarity": 0.403
+    },
+    {
+        "speaker": "Other",
+        "start": 77.0,
+        "end": 78.0,
+        "similarity": 0.402
+    },
+    {
+        "speaker": "Other",
+        "start": 78.0,
+        "end": 79.0,
+        "similarity": 0.378
+    },
+    {
+        "speaker": "Other",
+        "start": 79.0,
+        "end": 80.0,
+        "similarity": 0.441
+    },
+    {
+        "speaker": "Other",
+        "start": 80.0,
+        "end": 81.0,
+        "similarity": 0.384
+    },
+    {
+        "speaker": "Other",
+        "start": 81.0,
+        "end": 82.0,
+        "similarity": 0.066
+    },
+    {
+        "speaker": "Other",
+        "start": 82.0,
+        "end": 83.0,
+        "similarity": 0.064
+    },
+    {
+        "speaker": "Other",
+        "start": 83.0,
+        "end": 84.0,
+        "similarity": 0.025
+    },
+    {
+        "speaker": "Other",
+        "start": 84.0,
+        "end": 85.0,
+        "similarity": 0.109
+    },
+    {
+        "speaker": "Other",
+        "start": 85.0,
+        "end": 86.0,
+        "similarity": 0.062
+    },
+    {
+        "speaker": "Other",
+        "start": 86.0,
+        "end": 87.0,
+        "similarity": 0.048
+    },
+    {
+        "speaker": "Other",
+        "start": 87.0,
+        "end": 88.0,
+        "similarity": 0.058
+    },
+    {
+        "speaker": "Other",
+        "start": 88.0,
+        "end": 89.0,
+        "similarity": 0.392
+    },
+    {
+        "speaker": "Other",
+        "start": 89.0,
+        "end": 90.0,
+        "similarity": 0.392
+    },
+    {
+        "speaker": "Other",
+        "start": 90.0,
+        "end": 91.0,
+        "similarity": 0.526
+    },
+    {
+        "speaker": "Other",
+        "start": 91.0,
+        "end": 91.56,
+        "similarity": 0.172
+    }
+]

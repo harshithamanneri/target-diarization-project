@@ -1,0 +1,72 @@
+[
+    {
+        "speaker": "UNK",
+        "start": 0.12,
+        "end": 0.66,
+        "text": "My god.",
+        "confidence": 0.987
+    },
+    {
+        "speaker": "UNK",
+        "start": 0.81,
+        "end": 1.17,
+        "text": "Emma?",
+        "confidence": 0.989
+    },
+    {
+        "speaker": "UNK",
+        "start": 1.5,
+        "end": 2.19,
+        "text": "I am good.",
+        "confidence": 0.99
+    },
+    {
+        "speaker": "UNK",
+        "start": 2.52,
+        "end": 3.09,
+        "text": "How are you?",
+        "confidence": 0.99
+    },
+    {
+        "speaker": "UNK",
+        "start": 4.32,
+        "end": 5.28,
+        "text": "Hey James.",
+        "confidence": 0.986
+    },
+    {
+        "speaker": "UNK",
+        "start": 5.46,
+        "end": 6.21,
+        "text": "How are you?",
+        "confidence": 0.991
+    },
+    {
+        "speaker": "UNK",
+        "start": 7.56,
+        "end": 8.28,
+        "text": "Oh my god.",
+        "confidence": 0.989
+    },
+    {
+        "speaker": "UNK",
+        "start": 8.49,
+        "end": 8.85,
+        "text": "Emma?",
+        "confidence": 0.989
+    },
+    {
+        "speaker": "UNK",
+        "start": 9.15,
+        "end": 9.84,
+        "text": "I am good.",
+        "confidence": 0.99
+    },
+    {
+        "speaker": "UNK",
+        "start": 10.14,
+        "end": 10.74,
+        "text": "How are you?",
+        "confidence": 0.991
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "start": 0.0,
+        "end": 1.0,
+        "raw_similarity": 0.13212987780570984,
+        "similarity": 0.1568107083439827,
+        "speaker": "Other"
+    },
+    {
+        "start": 1.0,
+        "end": 2.0,
+        "raw_similarity": 0.18149153888225555,
+        "similarity": 0.1538397123416265,
+        "speaker": "Other"
+    },
+    {
+        "start": 2.0,
+        "end": 3.0,
+        "raw_similarity": 0.14789772033691406,
+        "similarity": 0.12702820263803005,
+        "speaker": "Other"
+    },
+    {
+        "start": 3.0,
+        "end": 4.0,
+        "raw_similarity": 0.04659367352724075,
+        "similarity": 0.19616599194705486,
+        "speaker": "Other"
+    },
+    {
+        "start": 4.0,
+        "end": 5.0,
+        "raw_similarity": 0.4086810350418091,
+        "similarity": 0.3206846285611391,
+        "speaker": "Other"
+    },
+    {
+        "start": 5.0,
+        "end": 6.0,
+        "raw_similarity": 0.6795660853385925,
+        "similarity": 0.35028267838060856,
+        "speaker": "Target"
+    },
+    {
+        "start": 6.0,
+        "end": 7.0,
+        "raw_similarity": 0.26628991961479187,
+        "similarity": 0.3647351562976837,
+        "speaker": "Target"
+    },
+    {
+        "start": 7.0,
+        "end": 8.0,
+        "raw_similarity": 0.10440358519554138,
+        "similarity": 0.2855460736900568,
+        "speaker": "Other"
+    },
+    {
+        "start": 8.0,
+        "end": 9.0,
+        "raw_similarity": 0.09192470461130142,
+        "similarity": 0.15192347206175327,
+        "speaker": "Other"
+    },
+    {
+        "start": 9.0,
+        "end": 10.0,
+        "raw_similarity": 0.14507567882537842,
+        "similarity": 0.11580247431993484,
+        "speaker": "Other"
+    },
+    {
+        "start": 10.0,
+        "end": 11.0,
+        "raw_similarity": 0.12180592864751816,
+        "similarity": 0.10685793310403824,
+        "speaker": "Other"
+    },
+    {
+        "start": 11.0,
+        "end": 12.0,
+        "raw_similarity": 0.06862542033195496,
+        "similarity": 0.09354661125689745,
+        "speaker": "Other"
+    },
+    {
+        "start": 12.0,
+        "end": 12.46,
+        "raw_similarity": 0.038679417222738266,
+        "similarity": 0.07637025540073712,
+        "speaker": "Other"
+    }
+]

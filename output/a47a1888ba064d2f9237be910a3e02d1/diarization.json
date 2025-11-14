@@ -1,0 +1,80 @@
+[
+    {
+        "speaker": "Other",
+        "start": 0.0,
+        "end": 1.0,
+        "similarity": 0.097
+    },
+    {
+        "speaker": "Other",
+        "start": 1.0,
+        "end": 2.0,
+        "similarity": 0.081
+    },
+    {
+        "speaker": "Other",
+        "start": 2.0,
+        "end": 3.0,
+        "similarity": 0.004
+    },
+    {
+        "speaker": "Other",
+        "start": 3.0,
+        "end": 4.0,
+        "similarity": 0.054
+    },
+    {
+        "speaker": "Other",
+        "start": 4.0,
+        "end": 5.0,
+        "similarity": 0.008
+    },
+    {
+        "speaker": "Other",
+        "start": 5.0,
+        "end": 6.0,
+        "similarity": -0.087
+    },
+    {
+        "speaker": "Other",
+        "start": 6.0,
+        "end": 7.0,
+        "similarity": -0.015
+    },
+    {
+        "speaker": "Other",
+        "start": 7.0,
+        "end": 8.0,
+        "similarity": 0.05
+    },
+    {
+        "speaker": "Other",
+        "start": 8.0,
+        "end": 9.0,
+        "similarity": 0.043
+    },
+    {
+        "speaker": "Other",
+        "start": 9.0,
+        "end": 10.0,
+        "similarity": 0.066
+    },
+    {
+        "speaker": "Other",
+        "start": 10.0,
+        "end": 11.0,
+        "similarity": 0.051
+    },
+    {
+        "speaker": "Other",
+        "start": 11.0,
+        "end": 12.0,
+        "similarity": 0.097
+    },
+    {
+        "speaker": "Other",
+        "start": 12.0,
+        "end": 12.46,
+        "similarity": 0.036
+    }
+]

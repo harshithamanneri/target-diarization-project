@@ -1,0 +1,339 @@
+/* ---------------------------
+   2050 PROFESSIONAL UI — STYLE
+   Minimal • flat • matte • HUD grid
+   --------------------------- */
+
+:root {
+  --bg: #0b0b0c;
+  --panel: #111112;
+  --muted: #9f9f9f;
+  --accent: #7c7c7c; /* subtle accent; monochrome */
+  --border: #232325;
+  --glass: rgba(255, 255, 255, 0.02);
+  --pill: #151516;
+  --mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+
+/* HUD GRID BACKGROUND */
+.hud-grid {
+  position: fixed;
+  inset: 0;
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0.01) 1px,
+      transparent 1px
+    ),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.01) 1px, transparent 1px);
+  background-size: 120px 120px, 120px 120px;
+  pointer-events: none;
+  opacity: 0.04;
+  z-index: 0;
+}
+
+/* App shell */
+body {
+  margin: 0;
+  background: var(--bg);
+  color: #e6e6e6;
+  font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial;
+  -webkit-font-smoothing: antialiased;
+  display: flex;
+  justify-content: center;
+  padding: 36px;
+}
+
+/* layout */
+.app-shell {
+  display: flex;
+  width: 1120px;
+  min-height: 640px;
+  gap: 20px;
+  z-index: 1;
+}
+
+/* SIDE NAV */
+.side-nav {
+  width: 220px;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  box-sizing: border-box;
+}
+.side-nav .nav-toggle {
+  display: none;
+}
+.nav-items {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.nav-brand {
+  font-weight: 600;
+  font-size: 13px;
+  color: #dcdcdc;
+  padding-bottom: 6px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.02);
+}
+.side-nav nav {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 12px;
+}
+.nav-link {
+  font-size: 13px;
+  color: var(--muted);
+  text-decoration: none;
+  padding: 8px 10px;
+  border-radius: 6px;
+  transition: background 0.12s, color 0.12s;
+}
+.nav-link.active {
+  background: var(--glass);
+  color: #ffffff;
+}
+.nav-footer {
+  margin-top: auto;
+  font-size: 11px;
+  color: var(--muted);
+  text-align: center;
+  padding-top: 10px;
+}
+
+/* main column */
+.main {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+/* header */
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+}
+.subtitle {
+  margin: 0;
+  font-size: 12px;
+  color: var(--muted);
+  margin-top: 6px;
+}
+
+/* loader line (minimal, 2050-style) */
+.loader-wrap {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 220px;
+  justify-content: flex-end;
+}
+.loader-line {
+  width: 220px;
+  height: 6px;
+  background: #0f0f10;
+  border-radius: 3px;
+  position: relative;
+  overflow: hidden;
+  box-shadow: none;
+  border: 1px solid rgba(255, 255, 255, 0.02);
+}
+.loader-line::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  transform: translateX(-100%);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.02),
+    rgba(255, 255, 255, 0.06),
+    rgba(255, 255, 255, 0.02)
+  );
+  animation: loaderMove 2.4s linear infinite;
+}
+@keyframes loaderMove {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(100%);
+  }
+}
+.loader-label {
+  font-size: 12px;
+  color: var(--muted);
+}
+
+/* CONTENT area */
+.content {
+  display: grid;
+  grid-template-columns: 1fr 440px;
+  gap: 18px;
+}
+
+/* left column - panels stack */
+.panel {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 18px;
+  box-sizing: border-box;
+}
+
+/* upload form */
+.upload-form {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.field-label {
+  color: var(--muted);
+  font-size: 13px;
+}
+.file-input {
+  padding: 12px;
+  background: var(--pill);
+  border: 1px solid rgba(255, 255, 255, 0.02);
+  color: #ddd;
+  border-radius: 6px;
+}
+.form-actions {
+  display: flex;
+  justify-content: flex-end;
+}
+.btn-primary {
+  background: transparent;
+  border: 1px solid #3a3a3b;
+  color: #e6e6e6;
+  padding: 10px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+/* quick output */
+.quick-output {
+  margin-top: 12px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+/* Right column panels */
+.panel-timeline,
+.panel-json,
+.panel-terminal,
+.panel-audio {
+  margin-bottom: 10px;
+}
+
+/* timeline */
+.timeline-outer {
+  background: transparent;
+  border-radius: 6px;
+  padding: 8px 6px;
+}
+.timeline-legend {
+  margin-top: 8px;
+  font-size: 12px;
+  color: var(--muted);
+}
+
+/* JSON viewer */
+.json-viewer {
+  background: #080809;
+  border-radius: 6px;
+  padding: 12px;
+  font-family: var(--mono);
+  font-size: 13px;
+  color: #cfcfcf;
+  max-height: 360px;
+  overflow: auto;
+  border: 1px solid rgba(255, 255, 255, 0.02);
+}
+
+/* terminal */
+.terminal {
+  background: #060607;
+  border-radius: 6px;
+  padding: 12px;
+  font-family: var(--mono);
+  font-size: 13px;
+  color: #a8ffa8;
+  height: 220px;
+  overflow: auto;
+  border: 1px solid rgba(255, 255, 255, 0.02);
+}
+
+/* wave canvas */
+#waveCanvas,
+#timelineCanvas {
+  width: 100%;
+  border-radius: 6px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.01), transparent);
+  border: 1px solid rgba(255, 255, 255, 0.02);
+}
+
+/* audio controls area */
+.audio-controls {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-top: 12px;
+}
+.btn-ghost {
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.03);
+  padding: 8px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  color: #e6e6e6;
+  font-family: var(--mono);
+  font-size: 13px;
+}
+
+/* small util */
+.panel-title {
+  margin: 0 0 10px 0;
+  font-size: 14px;
+  font-weight: 600;
+  color: #e6e6e6;
+}
+.link.small {
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 13px;
+  margin-left: 8px;
+}
+
+/* responsive */
+@media (max-width: 1200px) {
+  .app-shell {
+    flex-direction: column;
+    width: 100%;
+    padding: 18px;
+  }
+  .side-nav {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    padding: 10px;
+  }
+  .main {
+    width: 100%;
+  }
+  .content {
+    grid-template-columns: 1fr;
+  }
+}

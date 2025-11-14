@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Target Speaker Diarization — 2050 Console</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
+
+  <body>
+    <div class="hud-grid"></div>
+
+    <div class="app-shell">
+      <aside class="side-nav" id="sideNav">
+        <button class="nav-toggle" id="navToggle">☰</button>
+
+        <div class="nav-items">
+          <div class="nav-brand">AIDiar • Console</div>
+          <nav>
+            <a href="#" class="nav-link active" data-target="panel-dashboard"
+              >Dashboard</a
+            >
+            <a href="#" class="nav-link" data-target="panel-timeline"
+              >Timeline</a
+            >
+            <a href="#" class="nav-link" data-target="panel-json"
+              >JSON Viewer</a
+            >
+            <a href="#" class="nav-link" data-target="panel-terminal"
+              >Terminal</a
+            >
+            <a href="#" class="nav-link" data-target="panel-audio"
+              >Visualizer</a
+            >
+          </nav>
+          <div class="nav-footer">v1.3 · Awetales</div>
+        </div>
+      </aside>
+
+      <main class="main">
+        <header class="main-header">
+          <div>
+            <h1 class="title">Target Speaker Diarization</h1>
+            <p class="subtitle">Precision target-isolation • Real-time-ready</p>
+          </div>
+
+          <div class="loader-wrap" id="loaderWrap" aria-hidden="true">
+            <div class="loader-line" id="loaderLine"></div>
+            <div class="loader-label" id="loaderLabel">Processing…</div>
+          </div>
+        </header>
+
+        <section class="content">
+          <!-- Dashboard Panel -->
+          <div class="panel panel-dashboard" id="panel-dashboard">
+            <form
+              action="/process"
+              method="POST"
+              enctype="multipart/form-data"
+              id="uploadForm"
+              class="upload-form"
+            >
+              <label class="field-label">Target Speaker (3–10s)</label>
+              <input type="file" name="target" required class="file-input" />
+
+              <label class="field-label">Mixture Audio</label>
+              <input type="file" name="mixture" required class="file-input" />
+
+              <div class="form-actions">
+                <button type="submit" class="btn-primary">Process</button>
+              </div>
+            </form>
+
+            {% if json_file %}
+            <div class="quick-output" id="quickOutput">
+              <div
+                class="result-meta"
+                id="resultMeta"
+                data-json-url="/output/{{ json_file }}"
+                data-audio-url="/output/{{ audio_file }}"
+              >
+                <div class="meta-row">
+                  <span class="meta-item">diarization.json</span>
+                  <a href="/output/{{ json_file }}" class="link small"
+                    >Download</a
+                  >
+                </div>
+
+                <div class="meta-row">
+                  <span class="meta-item">target_speaker.wav</span>
+                  <a
+                    href="/output/{{ audio_file }}"
+                    class="link small"
+                    target="_blank"
+                    >Play</a
+                  >
+                </div>
+              </div>
+            </div>
+            {% endif %}
+          </div>
+
+          <!-- Timeline -->
+          <div class="panel panel-timeline" id="panel-timeline" hidden>
+            <h3 class="panel-title">Speaking Timeline</h3>
+            <div class="timeline-outer">
+              <canvas id="timelineCanvas" height="120"></canvas>
+            </div>
+            <div id="timelineLegend" class="timeline-legend"></div>
+          </div>
+
+          <!-- JSON Viewer -->
+          <div class="panel panel-json" id="panel-json" hidden>
+            <h3 class="panel-title">Diarization JSON</h3>
+            <div id="jsonViewer" class="json-viewer"></div>
+          </div>
+
+          <!-- Terminal -->
+          <div class="panel panel-terminal" id="panel-terminal" hidden>
+            <h3 class="panel-title">Console</h3>
+            <div id="terminal" class="terminal"></div>
+          </div>
+
+          <!-- AUDIO VISUALIZER -->
+          <div class="panel panel-audio" id="panel-audio" hidden>
+            <h3 class="panel-title">Audio Visualizer</h3>
+
+            <canvas id="waveCanvas" height="120"></canvas>
+
+            <div class="audio-controls">
+              <audio id="resultAudio" controls>
+                {% if audio_file %}
+                <source src="/output/{{ audio_file }}" type="audio/wav" />
+                {% endif %}
+              </audio>
+
+              <button id="playBtn" class="btn-ghost">Play</button>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <script>
+      window.APP_VARS = {
+        hasResult: {{ 'true' if json_file else 'false' }},
+        jsonURL: {{ ("'/output/" + json_file + "'") if json_file else 'null' }},
+        audioURL: {{ ("'/output/" + audio_file + "'") if audio_file else 'null' }}
+      };
+    </script>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>

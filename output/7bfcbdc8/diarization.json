@@ -1,0 +1,646 @@
+[
+    {
+        "start": 0.0,
+        "end": 1.0,
+        "raw_similarity": 0.6484635472297668,
+        "similarity": 0.6584576666355133,
+        "speaker": "Target"
+    },
+    {
+        "start": 1.0,
+        "end": 2.0,
+        "raw_similarity": 0.6684517860412598,
+        "similarity": 0.6379307508468628,
+        "speaker": "Target"
+    },
+    {
+        "start": 2.0,
+        "end": 3.0,
+        "raw_similarity": 0.5968769192695618,
+        "similarity": 0.5008374564349651,
+        "speaker": "Target"
+    },
+    {
+        "start": 3.0,
+        "end": 4.0,
+        "raw_similarity": 0.08955757319927216,
+        "similarity": 0.34261201205663383,
+        "speaker": "Other"
+    },
+    {
+        "start": 4.0,
+        "end": 5.0,
+        "raw_similarity": 0.015561769716441631,
+        "similarity": 0.19146027672104537,
+        "speaker": "Other"
+    },
+    {
+        "start": 5.0,
+        "end": 6.0,
+        "raw_similarity": 0.06384484469890594,
+        "similarity": 0.06564072775654495,
+        "speaker": "Other"
+    },
+    {
+        "start": 6.0,
+        "end": 7.0,
+        "raw_similarity": 0.09359872341156006,
+        "similarity": 0.04375308513408527,
+        "speaker": "Other"
+    },
+    {
+        "start": 7.0,
+        "end": 8.0,
+        "raw_similarity": 0.0020070027094334364,
+        "similarity": 0.04435809579445049,
+        "speaker": "Other"
+    },
+    {
+        "start": 8.0,
+        "end": 9.0,
+        "raw_similarity": 0.017981812357902527,
+        "similarity": 0.02760680124629289,
+        "speaker": "Other"
+    },
+    {
+        "start": 9.0,
+        "end": 10.0,
+        "raw_similarity": -0.0031603334937244654,
+        "similarity": -0.0022222440456971526,
+        "speaker": "Other"
+    },
+    {
+        "start": 10.0,
+        "end": 11.0,
+        "raw_similarity": -0.02571745775640011,
+        "similarity": 0.015424425655510277,
+        "speaker": "Other"
+    },
+    {
+        "start": 11.0,
+        "end": 12.0,
+        "raw_similarity": 0.07259368151426315,
+        "similarity": 0.03721690637758002,
+        "speaker": "Other"
+    },
+    {
+        "start": 12.0,
+        "end": 13.0,
+        "raw_similarity": 0.10515173524618149,
+        "similarity": 0.09843249851837754,
+        "speaker": "Other"
+    },
+    {
+        "start": 13.0,
+        "end": 14.0,
+        "raw_similarity": 0.24170203506946564,
+        "similarity": 0.12934199906885624,
+        "speaker": "Other"
+    },
+    {
+        "start": 14.0,
+        "end": 15.0,
+        "raw_similarity": 0.09792054444551468,
+        "similarity": 0.12722482345998287,
+        "speaker": "Other"
+    },
+    {
+        "start": 15.0,
+        "end": 16.0,
+        "raw_similarity": 0.06412497907876968,
+        "similarity": 0.1371985860168934,
+        "speaker": "Other"
+    },
+    {
+        "start": 16.0,
+        "end": 17.0,
+        "raw_similarity": 0.14504678547382355,
+        "similarity": 0.0937801655381918,
+        "speaker": "Other"
+    },
+    {
+        "start": 17.0,
+        "end": 18.0,
+        "raw_similarity": 0.06802835315465927,
+        "similarity": 0.15295640751719475,
+        "speaker": "Other"
+    },
+    {
+        "start": 18.0,
+        "end": 19.0,
+        "raw_similarity": 0.3346255123615265,
+        "similarity": 0.23791452683508396,
+        "speaker": "Other"
+    },
+    {
+        "start": 19.0,
+        "end": 20.0,
+        "raw_similarity": 0.40395745635032654,
+        "similarity": 0.18111921846866608,
+        "speaker": "Other"
+    },
+    {
+        "start": 20.0,
+        "end": 21.0,
+        "raw_similarity": -0.08213444799184799,
+        "similarity": 0.19529140926897526,
+        "speaker": "Other"
+    },
+    {
+        "start": 21.0,
+        "end": 22.0,
+        "raw_similarity": 0.124717116355896,
+        "similarity": 0.13088284060359,
+        "speaker": "Other"
+    },
+    {
+        "start": 22.0,
+        "end": 23.0,
+        "raw_similarity": 0.0769912376999855,
+        "similarity": 0.051546745002269745,
+        "speaker": "Other"
+    },
+    {
+        "start": 23.0,
+        "end": 24.0,
+        "raw_similarity": 0.08661307394504547,
+        "similarity": 0.08896715380251408,
+        "speaker": "Other"
+    },
+    {
+        "start": 24.0,
+        "end": 25.0,
+        "raw_similarity": 0.06754718720912933,
+        "similarity": 0.05217659519985318,
+        "speaker": "Other"
+    },
+    {
+        "start": 25.0,
+        "end": 26.0,
+        "raw_similarity": -0.02244511805474758,
+        "similarity": 0.046502876561135054,
+        "speaker": "Other"
+    },
+    {
+        "start": 26.0,
+        "end": 27.0,
+        "raw_similarity": 0.05429636314511299,
+        "similarity": 0.04131364403292537,
+        "speaker": "Other"
+    },
+    {
+        "start": 27.0,
+        "end": 28.0,
+        "raw_similarity": 0.06585614383220673,
+        "similarity": -0.000768792349845171,
+        "speaker": "Other"
+    },
+    {
+        "start": 28.0,
+        "end": 29.0,
+        "raw_similarity": -0.10078255832195282,
+        "similarity": 0.03106581699103117,
+        "speaker": "Other"
+    },
+    {
+        "start": 29.0,
+        "end": 30.0,
+        "raw_similarity": 0.10489331930875778,
+        "similarity": 0.01908514555543661,
+        "speaker": "Other"
+    },
+    {
+        "start": 30.0,
+        "end": 31.0,
+        "raw_similarity": 0.0063736774027347565,
+        "similarity": -0.0021583279594779015,
+        "speaker": "Other"
+    },
+    {
+        "start": 31.0,
+        "end": 32.0,
+        "raw_similarity": -0.019117750227451324,
+        "similarity": 0.12027137447148561,
+        "speaker": "Other"
+    },
+    {
+        "start": 32.0,
+        "end": 33.0,
+        "raw_similarity": 0.38893625140190125,
+        "similarity": 0.21959229465574026,
+        "speaker": "Other"
+    },
+    {
+        "start": 33.0,
+        "end": 34.0,
+        "raw_similarity": 0.5021770000457764,
+        "similarity": 0.34610540978610516,
+        "speaker": "Other"
+    },
+    {
+        "start": 34.0,
+        "end": 35.0,
+        "raw_similarity": 0.5124261379241943,
+        "similarity": 0.4589325934648514,
+        "speaker": "Target"
+    },
+    {
+        "start": 35.0,
+        "end": 36.0,
+        "raw_similarity": 0.43219098448753357,
+        "similarity": 0.4587875008583069,
+        "speaker": "Target"
+    },
+    {
+        "start": 36.0,
+        "end": 37.0,
+        "raw_similarity": 0.38835588097572327,
+        "similarity": 0.34041533479467034,
+        "speaker": "Other"
+    },
+    {
+        "start": 37.0,
+        "end": 38.0,
+        "raw_similarity": 0.0286883357912302,
+        "similarity": 0.22088819975033402,
+        "speaker": "Other"
+    },
+    {
+        "start": 38.0,
+        "end": 39.0,
+        "raw_similarity": 0.03431759774684906,
+        "similarity": 0.12099511502310634,
+        "speaker": "Other"
+    },
+    {
+        "start": 39.0,
+        "end": 40.0,
+        "raw_similarity": 0.03261864557862282,
+        "similarity": 0.0050575765781104565,
+        "speaker": "Other"
+    },
+    {
+        "start": 40.0,
+        "end": 41.0,
+        "raw_similarity": -0.07539427280426025,
+        "similarity": 0.016136677004396915,
+        "speaker": "Other"
+    },
+    {
+        "start": 41.0,
+        "end": 42.0,
+        "raw_similarity": 0.07300473749637604,
+        "similarity": 0.03243824001401663,
+        "speaker": "Other"
+    },
+    {
+        "start": 42.0,
+        "end": 43.0,
+        "raw_similarity": 0.09952384978532791,
+        "similarity": 0.03041707258671522,
+        "speaker": "Other"
+    },
+    {
+        "start": 43.0,
+        "end": 44.0,
+        "raw_similarity": 0.02453397586941719,
+        "similarity": 0.06155376695096493,
+        "speaker": "Other"
+    },
+    {
+        "start": 44.0,
+        "end": 45.0,
+        "raw_similarity": 0.04915250465273857,
+        "similarity": 0.061238089576363564,
+        "speaker": "Other"
+    },
+    {
+        "start": 45.0,
+        "end": 46.0,
+        "raw_similarity": 0.07174202799797058,
+        "similarity": 0.061365848407149315,
+        "speaker": "Other"
+    },
+    {
+        "start": 46.0,
+        "end": 47.0,
+        "raw_similarity": 0.10003488510847092,
+        "similarity": 0.06880647968500853,
+        "speaker": "Other"
+    },
+    {
+        "start": 47.0,
+        "end": 48.0,
+        "raw_similarity": 0.054296500980854034,
+        "similarity": 0.026773601770401,
+        "speaker": "Other"
+    },
+    {
+        "start": 48.0,
+        "end": 49.0,
+        "raw_similarity": -0.11897900700569153,
+        "similarity": 0.015107429586350918,
+        "speaker": "Other"
+    },
+    {
+        "start": 49.0,
+        "end": 50.0,
+        "raw_similarity": 0.02507733926177025,
+        "similarity": 0.01303387526422739,
+        "speaker": "Other"
+    },
+    {
+        "start": 50.0,
+        "end": 51.0,
+        "raw_similarity": 0.0917406678199768,
+        "similarity": 0.00970122218132019,
+        "speaker": "Other"
+    },
+    {
+        "start": 51.0,
+        "end": 52.0,
+        "raw_similarity": 0.040965888649225235,
+        "similarity": 0.0940483845770359,
+        "speaker": "Other"
+    },
+    {
+        "start": 52.0,
+        "end": 53.0,
+        "raw_similarity": 0.21840964257717133,
+        "similarity": 0.2100943448022008,
+        "speaker": "Other"
+    },
+    {
+        "start": 53.0,
+        "end": 54.0,
+        "raw_similarity": 0.4892611801624298,
+        "similarity": 0.2884680228307843,
+        "speaker": "Other"
+    },
+    {
+        "start": 54.0,
+        "end": 55.0,
+        "raw_similarity": 0.4052353799343109,
+        "similarity": 0.3315422758460045,
+        "speaker": "Other"
+    },
+    {
+        "start": 55.0,
+        "end": 56.0,
+        "raw_similarity": 0.2132629007101059,
+        "similarity": 0.39250873401761055,
+        "speaker": "Target"
+    },
+    {
+        "start": 56.0,
+        "end": 57.0,
+        "raw_similarity": 0.4622754752635956,
+        "similarity": 0.2800706848502159,
+        "speaker": "Other"
+    },
+    {
+        "start": 57.0,
+        "end": 58.0,
+        "raw_similarity": 0.03950898349285126,
+        "similarity": 0.2029339261353016,
+        "speaker": "Other"
+    },
+    {
+        "start": 58.0,
+        "end": 59.0,
+        "raw_similarity": 0.09668834507465363,
+        "similarity": 0.15287248743698,
+        "speaker": "Other"
+    },
+    {
+        "start": 59.0,
+        "end": 60.0,
+        "raw_similarity": 0.013017145916819572,
+        "similarity": 0.0407323450781405,
+        "speaker": "Other"
+    },
+    {
+        "start": 60.0,
+        "end": 61.0,
+        "raw_similarity": 0.013714905828237534,
+        "similarity": 0.1196655579842627,
+        "speaker": "Other"
+    },
+    {
+        "start": 61.0,
+        "end": 62.0,
+        "raw_similarity": 0.3552418351173401,
+        "similarity": 0.2210650504566729,
+        "speaker": "Other"
+    },
+    {
+        "start": 62.0,
+        "end": 63.0,
+        "raw_similarity": 0.5022863149642944,
+        "similarity": 0.32538027968257666,
+        "speaker": "Other"
+    },
+    {
+        "start": 63.0,
+        "end": 64.0,
+        "raw_similarity": 0.43027806282043457,
+        "similarity": 0.41739050298929214,
+        "speaker": "Target"
+    },
+    {
+        "start": 64.0,
+        "end": 65.0,
+        "raw_similarity": 0.3817557990550995,
+        "similarity": 0.41796500235795975,
+        "speaker": "Target"
+    },
+    {
+        "start": 65.0,
+        "end": 66.0,
+        "raw_similarity": 0.3575398325920105,
+        "similarity": 0.3199153319001198,
+        "speaker": "Other"
+    },
+    {
+        "start": 66.0,
+        "end": 67.0,
+        "raw_similarity": 0.11008763313293457,
+        "similarity": 0.2210340965539217,
+        "speaker": "Other"
+    },
+    {
+        "start": 67.0,
+        "end": 68.0,
+        "raw_similarity": 0.03475312143564224,
+        "similarity": 0.12893152958713472,
+        "speaker": "Other"
+    },
+    {
+        "start": 68.0,
+        "end": 69.0,
+        "raw_similarity": 0.013345531187951565,
+        "similarity": 0.05189346591942012,
+        "speaker": "Other"
+    },
+    {
+        "start": 69.0,
+        "end": 70.0,
+        "raw_similarity": 0.049387577921152115,
+        "similarity": 0.0400855194311589,
+        "speaker": "Other"
+    },
+    {
+        "start": 70.0,
+        "end": 71.0,
+        "raw_similarity": 0.06285584717988968,
+        "similarity": 0.03250021953135729,
+        "speaker": "Other"
+    },
+    {
+        "start": 71.0,
+        "end": 72.0,
+        "raw_similarity": 0.004411921836435795,
+        "similarity": 0.04502346855588257,
+        "speaker": "Other"
+    },
+    {
+        "start": 72.0,
+        "end": 73.0,
+        "raw_similarity": 0.0634385272860527,
+        "similarity": 0.047306141117587686,
+        "speaker": "Other"
+    },
+    {
+        "start": 73.0,
+        "end": 74.0,
+        "raw_similarity": 0.058518268167972565,
+        "similarity": 0.043581979582086205,
+        "speaker": "Other"
+    },
+    {
+        "start": 74.0,
+        "end": 75.0,
+        "raw_similarity": 0.04795920103788376,
+        "similarity": 0.16796736977994442,
+        "speaker": "Other"
+    },
+    {
+        "start": 75.0,
+        "end": 76.0,
+        "raw_similarity": 0.5019534826278687,
+        "similarity": 0.25573916733264923,
+        "speaker": "Other"
+    },
+    {
+        "start": 76.0,
+        "end": 77.0,
+        "raw_similarity": 0.41452571749687195,
+        "similarity": 0.34074114076793194,
+        "speaker": "Other"
+    },
+    {
+        "start": 77.0,
+        "end": 78.0,
+        "raw_similarity": 0.3985261619091034,
+        "similarity": 0.42429451644420624,
+        "speaker": "Target"
+    },
+    {
+        "start": 78.0,
+        "end": 79.0,
+        "raw_similarity": 0.38217270374298096,
+        "similarity": 0.40765292942523956,
+        "speaker": "Target"
+    },
+    {
+        "start": 79.0,
+        "end": 80.0,
+        "raw_similarity": 0.43538713455200195,
+        "similarity": 0.40171217918395996,
+        "speaker": "Target"
+    },
+    {
+        "start": 80.0,
+        "end": 81.0,
+        "raw_similarity": 0.39076271653175354,
+        "similarity": 0.3226203452795744,
+        "speaker": "Other"
+    },
+    {
+        "start": 81.0,
+        "end": 82.0,
+        "raw_similarity": 0.08215882629156113,
+        "similarity": 0.2447106819599867,
+        "speaker": "Other"
+    },
+    {
+        "start": 82.0,
+        "end": 83.0,
+        "raw_similarity": 0.07053405046463013,
+        "similarity": 0.14565142337232828,
+        "speaker": "Other"
+    },
+    {
+        "start": 83.0,
+        "end": 84.0,
+        "raw_similarity": 0.03915010020136833,
+        "similarity": 0.0786305321380496,
+        "speaker": "Other"
+    },
+    {
+        "start": 84.0,
+        "end": 85.0,
+        "raw_similarity": 0.12267915159463882,
+        "similarity": 0.07626067195087671,
+        "speaker": "Other"
+    },
+    {
+        "start": 85.0,
+        "end": 86.0,
+        "raw_similarity": 0.07267938554286957,
+        "similarity": 0.07219224981963634,
+        "speaker": "Other"
+    },
+    {
+        "start": 86.0,
+        "end": 87.0,
+        "raw_similarity": 0.054260361939668655,
+        "similarity": 0.07841787207871675,
+        "speaker": "Other"
+    },
+    {
+        "start": 87.0,
+        "end": 88.0,
+        "raw_similarity": 0.06405258923768997,
+        "similarity": 0.14804482739418745,
+        "speaker": "Other"
+    },
+    {
+        "start": 88.0,
+        "end": 89.0,
+        "raw_similarity": 0.4011869728565216,
+        "similarity": 0.22604588326066732,
+        "speaker": "Other"
+    },
+    {
+        "start": 89.0,
+        "end": 90.0,
+        "raw_similarity": 0.38468360900878906,
+        "similarity": 0.3450998608022928,
+        "speaker": "Other"
+    },
+    {
+        "start": 90.0,
+        "end": 91.0,
+        "raw_similarity": 0.5304762721061707,
+        "similarity": 0.3749622404575348,
+        "speaker": "Target"
+    },
+    {
+        "start": 91.0,
+        "end": 91.56,
+        "raw_similarity": 0.18350210785865784,
+        "similarity": 0.36622066299120587,
+        "speaker": "Target"
+    }
+]

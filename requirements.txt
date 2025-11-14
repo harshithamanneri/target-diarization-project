@@ -1,0 +1,11 @@
+numpy
+scipy
+librosa==0.10.0
+soundfile
+tqdm
+speechbrain>=0.5.14
+pyannote.audio>=2.1.1
+openai-whisper
+transformers
+huggingface-hub<0.17
+

@@ -1,0 +1,374 @@
+[
+  {
+    "start": 0.0,
+    "end": 0.4,
+    "similarity": 0.4597,
+    "mask_score": 0.6588
+  },
+  {
+    "start": 0.2,
+    "end": 0.6,
+    "similarity": 0.4029,
+    "mask_score": 0.5787
+  },
+  {
+    "start": 0.4,
+    "end": 0.8,
+    "similarity": 0.3736,
+    "mask_score": 0.5353
+  },
+  {
+    "start": 0.6,
+    "end": 1.0,
+    "similarity": 0.3736,
+    "mask_score": 0.5353
+  },
+  {
+    "start": 0.8,
+    "end": 1.2,
+    "similarity": 0.3736,
+    "mask_score": 0.5353
+  },
+  {
+    "start": 1.0,
+    "end": 1.4,
+    "similarity": 0.2891,
+    "mask_score": 0.4096
+  },
+  {
+    "start": 1.2,
+    "end": 1.6,
+    "similarity": 0.2891,
+    "mask_score": 0.4096
+  },
+  {
+    "start": 1.4,
+    "end": 1.8,
+    "similarity": 0.3497,
+    "mask_score": 0.4996
+  },
+  {
+    "start": 1.6,
+    "end": 2.0,
+    "similarity": 0.3497,
+    "mask_score": 0.4996
+  },
+  {
+    "start": 1.8,
+    "end": 2.2,
+    "similarity": 0.1808,
+    "mask_score": 0.266
+  },
+  {
+    "start": 2.0,
+    "end": 2.4,
+    "similarity": 0.1808,
+    "mask_score": 0.266
+  },
+  {
+    "start": 2.2,
+    "end": 2.6,
+    "similarity": 0.2065,
+    "mask_score": 0.2972
+  },
+  {
+    "start": 2.4,
+    "end": 2.8,
+    "similarity": 0.3621,
+    "mask_score": 0.5181
+  },
+  {
+    "start": 2.6,
+    "end": 3.0,
+    "similarity": 0.3621,
+    "mask_score": 0.5181
+  },
+  {
+    "start": 2.8,
+    "end": 3.2,
+    "similarity": 0.2234,
+    "mask_score": 0.3188
+  },
+  {
+    "start": 3.0,
+    "end": 3.4,
+    "similarity": 0.0984,
+    "mask_score": 0.181
+  },
+  {
+    "start": 3.2,
+    "end": 3.6,
+    "similarity": 0.0793,
+    "mask_score": 0.1646
+  },
+  {
+    "start": 3.4,
+    "end": 3.8,
+    "similarity": 0.0793,
+    "mask_score": 0.1646
+  },
+  {
+    "start": 3.6,
+    "end": 4.0,
+    "similarity": 0.1043,
+    "mask_score": 0.1863
+  },
+  {
+    "start": 3.8,
+    "end": 4.2,
+    "similarity": 0.1146,
+    "mask_score": 0.1959
+  },
+  {
+    "start": 4.0,
+    "end": 4.4,
+    "similarity": 0.1157,
+    "mask_score": 0.1969
+  },
+  {
+    "start": 4.2,
+    "end": 4.6,
+    "similarity": 0.1785,
+    "mask_score": 0.2633
+  },
+  {
+    "start": 4.4,
+    "end": 4.8,
+    "similarity": 0.1785,
+    "mask_score": 0.2633
+  },
+  {
+    "start": 4.6,
+    "end": 5.0,
+    "similarity": 0.1147,
+    "mask_score": 0.196
+  },
+  {
+    "start": 4.8,
+    "end": 5.2,
+    "similarity": 0.1057,
+    "mask_score": 0.1876
+  },
+  {
+    "start": 5.0,
+    "end": 5.4,
+    "similarity": 0.1147,
+    "mask_score": 0.196
+  },
+  {
+    "start": 5.2,
+    "end": 5.6,
+    "similarity": 0.1577,
+    "mask_score": 0.2398
+  },
+  {
+    "start": 5.4,
+    "end": 5.8,
+    "similarity": 0.2046,
+    "mask_score": 0.2948
+  },
+  {
+    "start": 5.6,
+    "end": 6.0,
+    "similarity": 0.1577,
+    "mask_score": 0.2398
+  },
+  {
+    "start": 5.8,
+    "end": 6.2,
+    "similarity": 0.0591,
+    "mask_score": 0.1486
+  },
+  {
+    "start": 6.0,
+    "end": 6.4,
+    "similarity": 0.0563,
+    "mask_score": 0.1465
+  },
+  {
+    "start": 6.2,
+    "end": 6.6,
+    "similarity": 0.0475,
+    "mask_score": 0.14
+  },
+  {
+    "start": 6.4,
+    "end": 6.8,
+    "similarity": 0.0563,
+    "mask_score": 0.1465
+  },
+  {
+    "start": 6.6,
+    "end": 7.0,
+    "similarity": 0.0475,
+    "mask_score": 0.14
+  },
+  {
+    "start": 6.8,
+    "end": 7.2,
+    "similarity": -0.0346,
+    "mask_score": 0.0905
+  },
+  {
+    "start": 7.0,
+    "end": 7.4,
+    "similarity": -0.0346,
+    "mask_score": 0.0905
+  },
+  {
+    "start": 7.2,
+    "end": 7.6,
+    "similarity": 0.0306,
+    "mask_score": 0.1282
+  },
+  {
+    "start": 7.4,
+    "end": 7.8,
+    "similarity": 0.2271,
+    "mask_score": 0.3235
+  },
+  {
+    "start": 7.6,
+    "end": 8.0,
+    "similarity": 0.3688,
+    "mask_score": 0.5282
+  },
+  {
+    "start": 7.8,
+    "end": 8.2,
+    "similarity": 0.3688,
+    "mask_score": 0.5282
+  },
+  {
+    "start": 8.0,
+    "end": 8.4,
+    "similarity": 0.314,
+    "mask_score": 0.4462
+  },
+  {
+    "start": 8.2,
+    "end": 8.6,
+    "similarity": 0.314,
+    "mask_score": 0.4462
+  },
+  {
+    "start": 8.4,
+    "end": 8.8,
+    "similarity": 0.3108,
+    "mask_score": 0.4415
+  },
+  {
+    "start": 8.6,
+    "end": 9.0,
+    "similarity": 0.2874,
+    "mask_score": 0.4072
+  },
+  {
+    "start": 8.8,
+    "end": 9.2,
+    "similarity": 0.2874,
+    "mask_score": 0.4072
+  },
+  {
+    "start": 9.0,
+    "end": 9.4,
+    "similarity": 0.3759,
+    "mask_score": 0.5388
+  },
+  {
+    "start": 9.2,
+    "end": 9.6,
+    "similarity": 0.3759,
+    "mask_score": 0.5388
+  },
+  {
+    "start": 9.4,
+    "end": 9.8,
+    "similarity": 0.3073,
+    "mask_score": 0.4363
+  },
+  {
+    "start": 9.6,
+    "end": 10.0,
+    "similarity": 0.2123,
+    "mask_score": 0.3045
+  },
+  {
+    "start": 9.8,
+    "end": 10.2,
+    "similarity": 0.2123,
+    "mask_score": 0.3045
+  },
+  {
+    "start": 10.0,
+    "end": 10.4,
+    "similarity": 0.2859,
+    "mask_score": 0.405
+  },
+  {
+    "start": 10.2,
+    "end": 10.6,
+    "similarity": 0.3331,
+    "mask_score": 0.4747
+  },
+  {
+    "start": 10.4,
+    "end": 10.8,
+    "similarity": 0.3331,
+    "mask_score": 0.4747
+  },
+  {
+    "start": 10.6,
+    "end": 11.0,
+    "similarity": 0.0831,
+    "mask_score": 0.1677
+  },
+  {
+    "start": 10.8,
+    "end": 11.2,
+    "similarity": 0.0429,
+    "mask_score": 0.1367
+  },
+  {
+    "start": 11.0,
+    "end": 11.4,
+    "similarity": 0.0429,
+    "mask_score": 0.1367
+  },
+  {
+    "start": 11.2,
+    "end": 11.6,
+    "similarity": 0.1045,
+    "mask_score": 0.1864
+  },
+  {
+    "start": 11.4,
+    "end": 11.8,
+    "similarity": 0.1045,
+    "mask_score": 0.1864
+  },
+  {
+    "start": 11.6,
+    "end": 12.0,
+    "similarity": 0.0712,
+    "mask_score": 0.1581
+  },
+  {
+    "start": 11.8,
+    "end": 12.2,
+    "similarity": 0.0375,
+    "mask_score": 0.133
+  },
+  {
+    "start": 12.0,
+    "end": 12.4,
+    "similarity": 0.0375,
+    "mask_score": 0.133
+  },
+  {
+    "start": 12.2,
+    "end": 12.456,
+    "similarity": 0.0506,
+    "mask_score": 0.1423
+  }
+]
